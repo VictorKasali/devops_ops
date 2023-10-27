@@ -1,4 +1,0 @@
-This is a sample file
-This is a new commit
-
-This is the latest edit 
